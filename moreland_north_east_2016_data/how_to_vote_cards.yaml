@@ -1,0 +1,353 @@
+# data sourced from John Englart's blog:
+# https://fawkner.org/2016/10/06/who-is-standing-for-ne-ward-of-moreland-council-in-2016/
+BOLTON:
+  - Bolton
+  - Abboud
+  - Nunns
+  - McGilvray
+  - Pulford
+  - Carli Hannan
+  - Pavlidis
+  - Michell
+  - Jubb
+  - Timpano
+  - Angelopoulos
+  - Helou
+  - Mian
+  - Failla
+  - Bonifazio
+  - Gartside
+  - Kelleher
+  - Georgiou
+  - Hong
+  - Irfanli
+
+Abboud:
+  - Abboud
+  - McGilvray
+  - Pulford
+  - Bolton
+  - Jubb
+  - Bonifazio
+  - Georgiou
+  - Nunns
+  - Mian
+  - Carli Hannan
+  - Pavlidis
+  - Michell
+  - Kelleher
+  - Gartside
+  - Angelopoulos
+  - Helou
+  - Irfanli
+  - Timpano
+  - Hong
+  - Failla
+
+NUNNS:
+  - Nunns
+  - Pavlidis
+  - Michell
+  - Carli Hannan
+  - Angelopoulos
+  - Helou
+  - Mian
+  - Bolton
+  - Abboud
+  - McGilvray
+  - Pulford
+  - Timpano
+  - Kelleher
+  - Jubb
+  - Bonifazio
+  - Failla
+  - Georgiou
+  - Gartside
+  - Hong
+  - Irfanli
+
+CARLI HANNAN:
+  - Carli Hannan
+  - Michell
+  - Pavlidis
+  - Nunns
+  - Angelopoulos
+  - Mian
+  - Helou
+  - Timpano
+  - Bolton
+  - Abboud
+  - McGilvray
+  - Bonifazio
+  - Jubb
+  - Irfanli
+  - Failla
+  - Georgiou
+  - Kelleher
+  - Hong
+  - Pulford
+  - Gartside
+
+MICHELL:
+  - Michell
+  - Carli Hannan
+  - Nunns
+  - Pavlidis
+  - Angelopoulos
+  - Helou
+  - Mian
+  - Jubb
+  - Georgiou
+  - Irfanli
+  - Failla
+  - Timpano
+  - Bolton
+  - Pulford
+  - Abboud
+  - McGilvray
+  - Hong
+  - Kelleher
+  - Gartside
+  - Bonifazio
+
+MIAN:
+  - Mian
+  - Angelopoulos
+  - Helou
+  - Carli Hannan
+  - Nunns
+  - Pavlidis
+  - Michell
+  - Irfanli
+  - Timpano
+  - Kelleher
+  - Bolton
+  - Failla
+  - Pulford
+  - Abboud
+  - Gartside
+  - McGilvray
+  - Jubb
+  - Bonifazio
+  - Georgiou
+  - Hong
+
+PAVLIDIS:
+  - Pavlidis
+  - Nunns
+  - Carli Hannan
+  - Michell
+  - Angelopoulos
+  - Mian
+  - Helou
+  - Kelleher
+  - Bolton
+  - Timpano
+  - Failla
+  - Jubb
+  - Georgiou
+  - McGilvray
+  - Pulford
+  - Abboud
+  - Bonifazio
+  - Gartside
+  - Hong
+  - Irfanli
+
+HELOU:
+  - Helou
+  - Angelopoulos
+  - Mian
+  - Carli Hannan
+  - Michell
+  - Pavlidis
+  - Nunns
+  - Failla
+  - Bonifazio
+  - Irfanli
+  - Georgiou
+  - Kelleher
+  - Abboud
+  - Hong
+  - Pulford
+  - Timpano
+  - Gartside
+  - Bolton
+  - McGilvray
+  - Jubb
+
+ANGELOPOULOS:
+  - Angelopoulos
+  - Helou
+  - Mian
+  - Michell
+  - Pavlidis
+  - Carli Hannan
+  - Nunns
+  - Failla
+  - Georgiou
+  - Bonifazio
+  - Kelleher
+  - Bolton
+  - Gartside
+  - Jubb
+  - Timpano
+  - Irfanli
+  - Hong
+  - McGilvray
+  - Pulford
+  - Abboud
+
+JUBB:
+  - Jubb
+  - Abboud
+  - Bolton
+  - Georgiou
+  - McGilvray
+  - Nunns
+  - Michell
+  - Pulford
+  - Carli Hannan
+  - Pavlidis
+  - Angelopoulos
+  - Irfanli
+  - Bonifazio
+  - Mian
+  - Kelleher
+  - Helou
+  - Failla
+  - Timpano
+  - Gartside
+  - Hong
+
+GEORGIOU:
+  - Georgiou
+  - Irfanli
+  - Jubb
+  - Kelleher
+  - Timpano
+  - Bonifazio
+  - Gartside
+  - Failla
+  - Abboud
+  - McGilvray
+  - Pulford
+  - Michell
+  - Angelopoulos
+  - Bolton
+  - Pavlidis
+  - Carli Hannan
+  - Nunns
+  - Helou
+  - Mian
+  - Hong
+
+BONIFAZIO:
+  - Bonifazio
+  - Helou
+  - Failla
+  - Angelopoulos
+  - Mian
+  - Irfanli
+  - Jubb
+  - Nunns
+  - McGilvray
+  - Bolton
+  - Gartside
+  - Timpano
+  - Pavlidis
+  - Pulford
+  - Michell
+  - Hong
+  - Carli Hannan
+  - Abboud
+  - Kelleher
+  - Georgiou
+
+FAILLA:
+  - Failla
+  - Timpano
+  - Kelleher
+  - Bonifazio
+  - Helou
+  - Angelopoulos
+  - Pavlidis
+  - Hong
+  - Gartside
+  - Irfanli
+  - Jubb
+  - Michell
+  - Mian
+  - Georgiou
+  - Carli Hannan
+  - Nunns
+  - McGilvray
+  - Pulford
+  - Bolton
+  - Abboud
+
+IRFANLI:
+  - Irfanli
+  - Georgiou
+  - Kelleher
+  - Timpano
+  - Gartside
+  - Jubb
+  - Bonifazio
+  - Hong
+  - Mian
+  - Failla
+  - Helou
+  - Abboud
+  - Carli Hannan
+  - Michell
+  - Pulford
+  - Pavlidis
+  - Angelopoulos
+  - McGilvray
+  - Nunns
+  - Bolton
+
+KELLEHER:
+  - Kelleher
+  - Timpano
+  - Failla
+  - Irfanli
+  - Georgiou
+  - Jubb
+  - Nunns
+  - Pavlidis
+  - Gartside
+  - Mian
+  - Bolton
+  - Hong
+  - Pulford
+  - Bonifazio
+  - McGilvray
+  - Angelopoulos
+  - Michell
+  - Helou
+  - Abboud
+  - Carli Hannan
+
+TIMPANO:
+  - Timpano
+  - Failla
+  - Gartside
+  - Kelleher
+  - Georgiou
+  - Irfanli
+  - Bolton
+  - Carli Hannan
+  - Michell
+  - Nunns
+  - Helou
+  - Pulford
+  - Hong
+  - McGilvray
+  - Angelopoulos
+  - Abboud
+  - Pavlidis
+  - Bonifazio
+  - Jubb
+  - Mian

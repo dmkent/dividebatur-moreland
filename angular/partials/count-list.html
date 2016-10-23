@@ -3,32 +3,28 @@
 <h1>Introduction</h1>
 
 <p>
-This site presents the details results for 
-<a href="https://en.wikipedia.org/wiki/Single_transferable_vote">Single Transferable Vote</a> elections
-to fill Australian Senate vacancies. All counts are shown. The particular variant of STV implemented is that specified under 
-the <a href="http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/">Commonwealth Electoral Act (1918)</a>.
+This site presents detailed results <emph>estimated</emph> for the Moreland
+North-east Ward 2016 election.</p>
+
+<p>The count and code used to perform it are based on the Austrlian Senate count method as implemented by 
+<a href="https://github.com/grahame/dividebatur">dividebatur</a> 
 </p>
 
-<p>
-Both above-the-line and below-the-line votes are included in the count.
+<p>Some very big assumptions are made here:
+<ol>
+    <li>Only first preference counts are currently available</li>
+    <li>An estimated flow of preferences is made using the registered how-to-vote card of each candidate</li>
+        <ul>
+            <li>This is a very crude assumption. Particularly in a progressive council like Moreland, many voters will not follow how-to-vote cards.</li>
+            <li>How-to-vote cards for two candidates were not available. In these cases an preferences are assumed to flow in same order as a select aligned candidate. This may be a very poor assumption indeed.</li>
+            <li>Big thanks to John Englart whose excellent <a href="https://fawkner.org/2016/10/06/who-is-standing-for-ne-ward-of-moreland-council-in-2016/">guide</a> includes the compilation of the how-to-vote card information.</li>
+        </ul>
+    </li>
+</ol>
 </p>
 
-<p>
-The results presented on this site are believed to precisely match those produced by the 
-<a href="http://aec.gov.au">Australian Electoral Commission's</a> software.
-Where detailed run logs have been obtained from the AEC, the totals for each 
-candidate (and the number of exhausted/gain-loss votes) have matched at each 
-count, and the candidates elected and excluded have matched. If you spot 
-something incorrect, please <a href="mailto:grahame@angrygoats.net">get in touch</a>.
-</p>
-
-<p>
-This system is named <a href="https://github.com/grahame/dividebatur">dividebatur</a> 
-and is open source software distributed under the <a href="https://raw2.github.com/grahame/dividebatur/master/LICENSE">Apache License, 2.0</a>.
-It was written out of curiosity, and to check whether the AEC's 
-results are reproducable. It also allows a full STV vote distribution for 
-hypothetical situations, which can be very useful – particuarly when West 
-Australian Senate elections go awry!
+<p>A big shout-out to Graham Bowland for the original dividebatur to count the Australian Senate results. As with the original dividebatur code, this is completely 
+open source software distributed under the <a href="https://raw2.github.com/dmkent/dividebatur-moreland/master/LICENSE">Apache License, 2.0</a>.
 </p>
 
 <h1>Counts</h1>
