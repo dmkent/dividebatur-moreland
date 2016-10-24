@@ -706,6 +706,10 @@ class SenateCounter:
                 for candidate_id in elected:
                     self.elect(candidate_aggregates, candidate_id)
                     if len(self.candidates_elected) == self.vacancies:
+                        not_elected = self.get_continuing_candidates(candidate_aggregates)
+                        for excluded_candidate in not_elected:
+                            reason = ExclusionReason("All vacancies filled.", [])
+                            self.exclude_candidates([excluded_candidate], reason)
                         return False
                 return True
 
