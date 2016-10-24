@@ -63,6 +63,9 @@ def run(data_dir='moreland_north_east_2016_data'):
         lambda a: a,
         lambda a: candidates[a],
         lambda a: candidates[a],
+        description="Monday evening VEC primary counts with how-to-vote card perferences",
+        house="North-East",
+        state='Moreland',
     )
 
     tickets = counter.PapersForCount()
