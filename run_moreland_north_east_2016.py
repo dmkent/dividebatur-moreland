@@ -26,9 +26,11 @@ def run(data_dir='moreland_north_east_2016_data'):
     else:
         data_to_load = data_on_disk
 
+    print(data_to_load)
     data = load_votes(data_to_load)
     data.columns = [s.split(',')[0].lower() for s in data.columns]
-    first_prefs = data.ix['Total Ordinary Votes'].ix[:20]
+    first_prefs = data.ix['TOTAL ALL VOTE TYPES'].ix[:20]
+    print(first_prefs)
 
     htvs = yaml.load(open(join(data_dir, 'how_to_vote_cards.yaml')))
 
